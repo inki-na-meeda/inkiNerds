@@ -1,0 +1,1 @@
+let map=document.querySelector(".map");let imgMapWrapper=document.querySelector(".img-map-wrapper");let iframe=document.querySelector("iframe");if(!navigator.onLine){iframe.classList.add("map-display-none");imgMapWrapper.classList.remove("map-display-none")};
